@@ -5,9 +5,9 @@ jQuery(document).ready(function() {
         Background slideshow
     */
 	$('.banner-area').backstretch([
-	                     "cs/images/backgrounds/1.jpg"
-	                   , "cs/images/backgrounds/2.jpg"
-	                   , "cs/images/backgrounds/3.jpg"
+	                     "https://vierspace.github.io/cs/images/backgrounds/1.jpg"
+	                   , "https://vierspace.github.io/cs/images/backgrounds/2.jpg"
+	                   , "https://vierspace.github.io/cs/images/backgrounds/3.jpg"
 	                  ], {duration: 3000, fade: 750});
 					  
     
